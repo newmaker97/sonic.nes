@@ -1,0 +1,59 @@
+{
+	"storyName": "killer deluxe",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"top loader v2",
+			"sonicnes",
+			[
+				0,
+				13,
+				253
+			]
+		],
+		[
+			"top loader v4",
+			"bfnes",
+			[
+				0,
+				53,
+				155
+			]
+		],
+		[
+			"top loader v5",
+			"sonicnes",
+			[
+				60,
+				113,
+				255
+			]
+		],
+		[
+			"top loader v5 eggman",
+			"eggman",
+			[
+				255,
+				40,
+				20
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "sonicnes"
+}
