@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="eggman.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="eggman down0000" x="20" y="20" width="49" height="53"/>
+	<SubTexture name="eggman down0001" x="20" y="20" width="49" height="53"/>
+	<SubTexture name="eggman down0002" x="89" y="20" width="49" height="53"/>
+	<SubTexture name="eggman down0003" x="89" y="20" width="49" height="53"/>
+	<SubTexture name="eggman down0004" x="89" y="20" width="49" height="53"/>
+	<SubTexture name="eggman down0005" x="89" y="20" width="49" height="53"/>
+	<SubTexture name="eggman down0006" x="89" y="20" width="49" height="53"/>
+	<SubTexture name="eggman down0007" x="89" y="20" width="49" height="53"/>
+	<SubTexture name="eggman down0008" x="89" y="20" width="49" height="53"/>
+	<SubTexture name="eggman down0009" x="89" y="20" width="49" height="53"/>
+	<SubTexture name="eggman down0010" x="89" y="20" width="49" height="53"/>
+	<SubTexture name="eggman down0011" x="89" y="20" width="49" height="53"/>
+	<SubTexture name="eggman down0012" x="89" y="20" width="49" height="53"/>
+	<SubTexture name="eggman down0013" x="89" y="20" width="49" height="53"/>
+	<SubTexture name="eggman down0014" x="89" y="20" width="49" height="53"/>
+	<SubTexture name="eggman hair flow0000" x="158" y="20" width="48" height="47"/>
+	<SubTexture name="eggman hair flow0001" x="158" y="20" width="48" height="47"/>
+	<SubTexture name="eggman hair flow0002" x="226" y="20" width="48" height="47"/>
+	<SubTexture name="eggman hair flow0003" x="226" y="20" width="48" height="47"/>
+	<SubTexture name="eggman hair flow0004" x="294" y="20" width="48" height="47"/>
+	<SubTexture name="eggman hair flow0005" x="294" y="20" width="48" height="47"/>
+	<SubTexture name="eggman hair flow0006" x="362" y="20" width="48" height="47"/>
+	<SubTexture name="eggman hair flow0007" x="362" y="20" width="48" height="47"/>
+	<SubTexture name="eggman hair flow0008" x="430" y="20" width="48" height="47"/>
+	<SubTexture name="eggman hair flow0009" x="430" y="20" width="48" height="47"/>
+	<SubTexture name="eggman laugh0000" x="20" y="93" width="48" height="48"/>
+	<SubTexture name="eggman laugh0001" x="20" y="93" width="48" height="48"/>
+	<SubTexture name="eggman laugh0002" x="88" y="93" width="48" height="48"/>
+	<SubTexture name="eggman laugh0003" x="156" y="93" width="48" height="48"/>
+	<SubTexture name="eggman left0000" x="224" y="93" width="48" height="47"/>
+	<SubTexture name="eggman left0001" x="224" y="93" width="48" height="47"/>
+	<SubTexture name="eggman left0002" x="292" y="93" width="48" height="47"/>
+	<SubTexture name="eggman left0003" x="292" y="93" width="48" height="47"/>
+	<SubTexture name="eggman left0004" x="292" y="93" width="48" height="47"/>
+	<SubTexture name="eggman left0005" x="292" y="93" width="48" height="47"/>
+	<SubTexture name="eggman left0006" x="292" y="93" width="48" height="47"/>
+	<SubTexture name="eggman left0007" x="292" y="93" width="48" height="47"/>
+	<SubTexture name="eggman left0008" x="292" y="93" width="48" height="47"/>
+	<SubTexture name="eggman left0009" x="292" y="93" width="48" height="47"/>
+	<SubTexture name="eggman left0010" x="292" y="93" width="48" height="47"/>
+	<SubTexture name="eggman left0011" x="292" y="93" width="48" height="47"/>
+	<SubTexture name="eggman left0012" x="292" y="93" width="48" height="47"/>
+	<SubTexture name="eggman left0013" x="292" y="93" width="48" height="47"/>
+	<SubTexture name="eggman left0014" x="292" y="93" width="48" height="47"/>
+	<SubTexture name="eggman right0000" x="360" y="93" width="48" height="47"/>
+	<SubTexture name="eggman right0001" x="360" y="93" width="48" height="47"/>
+	<SubTexture name="eggman right0002" x="428" y="93" width="48" height="47"/>
+	<SubTexture name="eggman right0003" x="428" y="93" width="48" height="47"/>
+	<SubTexture name="eggman right0004" x="428" y="93" width="48" height="47"/>
+	<SubTexture name="eggman right0005" x="428" y="93" width="48" height="47"/>
+	<SubTexture name="eggman right0006" x="428" y="93" width="48" height="47"/>
+	<SubTexture name="eggman right0007" x="428" y="93" width="48" height="47"/>
+	<SubTexture name="eggman right0008" x="428" y="93" width="48" height="47"/>
+	<SubTexture name="eggman right0009" x="428" y="93" width="48" height="47"/>
+	<SubTexture name="eggman right0010" x="428" y="93" width="48" height="47"/>
+	<SubTexture name="eggman right0011" x="428" y="93" width="48" height="47"/>
+	<SubTexture name="eggman right0012" x="428" y="93" width="48" height="47"/>
+	<SubTexture name="eggman right0013" x="428" y="93" width="48" height="47"/>
+	<SubTexture name="eggman right0014" x="428" y="93" width="48" height="47"/>
+	<SubTexture name="eggman up0000" x="20" y="161" width="49" height="51"/>
+	<SubTexture name="eggman up0001" x="20" y="161" width="49" height="51"/>
+	<SubTexture name="eggman up0002" x="89" y="161" width="49" height="51"/>
+	<SubTexture name="eggman up0003" x="89" y="161" width="49" height="51"/>
+	<SubTexture name="eggman up0004" x="89" y="161" width="49" height="51"/>
+	<SubTexture name="eggman up0005" x="89" y="161" width="49" height="51"/>
+	<SubTexture name="eggman up0006" x="89" y="161" width="49" height="51"/>
+	<SubTexture name="eggman up0007" x="89" y="161" width="49" height="51"/>
+	<SubTexture name="eggman up0008" x="89" y="161" width="49" height="51"/>
+	<SubTexture name="eggman up0009" x="89" y="161" width="49" height="51"/>
+	<SubTexture name="eggman up0010" x="89" y="161" width="49" height="51"/>
+	<SubTexture name="eggman up0011" x="89" y="161" width="49" height="51"/>
+	<SubTexture name="eggman up0012" x="89" y="161" width="49" height="51"/>
+	<SubTexture name="eggman up0013" x="89" y="161" width="49" height="51"/>
+	<SubTexture name="eggman up0014" x="89" y="161" width="49" height="51"/>
+</TextureAtlas>
