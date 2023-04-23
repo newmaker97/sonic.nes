@@ -7,5 +7,14 @@ No. Out of respect for the creators of the mods I use/chart/etc. I will not be r
 ## How long do these typically take?
 Anywhere from 3 hours to weeks. I pride myself in making the best quality I can, frequently updating my ports/charts.
 
+## Will you release more in the future?
+Possibly.................................
+
+## Is there an even more up-to-date version of this mod folder?
+Yes, and GUESS WHOS NOT GETTING IT!!!! mwaahahawhahah
+
+## Will this interfere with storage/other packs?
+I tried to keep it as minimal as possible, saving storage and simplicity. The scripts folder has something for the score, you can drag it into the song folders (or delete it entirely) if you don't want the custom score stuff.
+
 ## If I'm your friend, can I pretty please get the secret awesome stuff?
 Well, since you asked so nicely...
