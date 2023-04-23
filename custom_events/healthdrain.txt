@@ -1,0 +1,2 @@
+Value 1 % of health being drained, - values heal, positive damage
+Value 2 % when the health drain will stop

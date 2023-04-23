@@ -1,0 +1,4 @@
+Value 1: 1 = Opponent 2 = Player
+Add .5 at end of number to fade in
+
+Value 2: Time
