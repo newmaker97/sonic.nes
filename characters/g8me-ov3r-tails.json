@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-148,
+				-313
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tails Note down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-141,
+				-237
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tails NOTE UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-99,
+				-283
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tails note right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-271
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Tails Left Note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-153,
+				-307
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "tails Idle Dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/G8ME_OV3R_TAILS",
+	"position": [
+		1120,
+		-130
+	],
+	"healthicon": "icon-soultails",
+	"flip_x": false,
+	"healthbar_colors": [
+		34,
+		91,
+		156
+	],
+	"camera_position": [
+		30,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

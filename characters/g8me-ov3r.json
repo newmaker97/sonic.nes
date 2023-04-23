@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				30,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sonic Idle Dance"
+		},
+		{
+			"offsets": [
+				281,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sonic NOTE LEFT"
+		},
+		{
+			"offsets": [
+				-30,
+				260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sonic Note down"
+		},
+		{
+			"offsets": [
+				-50,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sonic right Note"
+		},
+		{
+			"offsets": [
+				-26,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sonic Up note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/G8ME_OV3R",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "g8meov3r",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-120,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
