@@ -1,0 +1,6 @@
+{
+	"name": "SONIC.NES",
+	"description": "old sonic.nes ported stuff (please credit my YT if using!)",
+	"restart":true,
+	"color": [200, 10, 0]
+}
