@@ -1,7 +1,7 @@
 # Information
 old build of mod folder with sonic.nes stuff so people stop asking me for it lol
 
-## Question: Will you ever release a new version? Like the ones on your YouTube?
+## Will you ever release a new version? Like the ones on your YouTube?
 No. Out of respect for the creators of the mods I use/chart/etc. I will not be releasing anything besides miniature updates like this one (and especially not publically, for both code stealing or afforementioned, respecting the original authors of the content.)
 
 ## How long do these typically take?
